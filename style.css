@@ -75,8 +75,7 @@ body {
 /* Header Start */
 
 .logo {
-  position: absolute;
-  top: -10px;
+  margin: -17px 0;
   padding: 0;
   width: 100px;
 }
@@ -124,7 +123,7 @@ body {
   content: "";
   width: 30%;
   height: 2px;
-  background: #daefe2;
+  background: #088178;
   position: absolute;
   bottom: -4px;
   left: 20px;
@@ -602,7 +601,7 @@ footer .copywright {
   #hero {
     height: 90vh;
     padding: 0 80px;
-    background-position: top 30% right 40%;
+    background-position: top 30% right 80%;
   }
 
   #feature {
